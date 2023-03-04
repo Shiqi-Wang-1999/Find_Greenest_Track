@@ -1,0 +1,10 @@
+__pycache__/tracks.cpython-38.pyc
+__pycache__/utils.cpython-38.pyc
+__pycache__/clustering.cpython-38.pyc
+__pycache__/clustering_numpy.cpython-38.pyc
+__pycache__/load.cpython-38.pyc
+/.idea/
+/.pytest_cache/
+
+*/__pycache__
+__pycache__/__init__.cpython-38.pyc
